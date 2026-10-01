@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "magi:item/desert_nomad_helmet"
-  }
-}

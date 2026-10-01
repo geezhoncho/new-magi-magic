@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "magi:item/steel_bow_pulling_0"
-  }
-}
